@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @macroarray
-- 👀 I’m interested in Bioinformatic
+- 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently learning Web desing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
